@@ -1,0 +1,14 @@
+{
+  "generated": "2026-02-24T10:10:15.139Z",
+  "plugins": [
+    {
+      "id": "com.origin.starter",
+      "name": "Starter Plugin",
+      "description": "The official plugin starter template — fork this to build your own plugin",
+      "author": "fellanH",
+      "version": "0.1.0",
+      "icon": "🧩",
+      "github": "https://github.com/fellanH/origin-plugin-starter"
+    }
+  ]
+}
