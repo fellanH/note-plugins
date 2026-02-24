@@ -1,6 +1,56 @@
 {
-  "generated": "2026-02-24T10:10:15.139Z",
+  "generated": "2026-02-24T00:00:00.000Z",
   "plugins": [
+    {
+      "id": "com.origin.browser",
+      "name": "Browser",
+      "description": "View any URL in a panel — great for localhost dev servers",
+      "author": "fellanH",
+      "version": "0.1.0",
+      "icon": "🌐",
+      "github": "https://github.com/fellanH/origin",
+      "bundle_url": "https://fellanH.github.io/note-plugins/plugins/com.origin.browser/index.js"
+    },
+    {
+      "id": "com.origin.github",
+      "name": "GitHub PRs",
+      "description": "Track open pull requests for any GitHub repository",
+      "author": "fellanH",
+      "version": "0.1.0",
+      "icon": "🐙",
+      "github": "https://github.com/fellanH/origin",
+      "bundle_url": "https://fellanH.github.io/note-plugins/plugins/com.origin.github/index.js"
+    },
+    {
+      "id": "com.origin.terminal",
+      "name": "Terminal",
+      "description": "Full PTY terminal",
+      "author": "fellanH",
+      "version": "0.0.1",
+      "icon": ">_",
+      "github": "https://github.com/fellanH/origin",
+      "bundle_url": "https://fellanH.github.io/note-plugins/plugins/com.origin.terminal/index.js"
+    },
+    {
+      "id": "com.origin.filetree",
+      "name": "File Tree",
+      "description": "Browse your local filesystem",
+      "author": "fellanH",
+      "version": "0.1.0",
+      "icon": "📁",
+      "github": "https://github.com/fellanH/origin",
+      "bundle_url": "https://fellanH.github.io/note-plugins/plugins/com.origin.filetree/index.js"
+    },
+    {
+      "id": "com.origin.monaco",
+      "name": "Monaco Editor",
+      "description": "VS Code editor — open and edit any file",
+      "author": "fellanH",
+      "version": "0.1.0",
+      "icon": "✏️",
+      "github": "https://github.com/fellanH/origin",
+      "bundle_url": "https://fellanH.github.io/note-plugins/plugins/com.origin.monaco/index.js"
+    },
     {
       "id": "com.origin.starter",
       "name": "Starter Plugin",
